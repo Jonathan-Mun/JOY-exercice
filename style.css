@@ -48,9 +48,24 @@ header > a:hover{
 }
 
 
-main{
-    margin: 0px 10%;
+#pres{
+    background-color: red;
+    position: relative;
+    height: 850px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20%;
+    padding-left: 3%;
+    padding-right: 35%;
+    align-items: baseline;
+    gap: 20px;
+    background-image: url(assets/image/image2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: gray;
 }
+
 
 
 i{
