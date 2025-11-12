@@ -1,0 +1,14 @@
+i{
+    font-size: 40px;
+    color: gray;
+
+}
+span{
+    color: red;
+}
+img{
+    width: 150px;
+}
+div img{
+    background-color: gray;
+}
