@@ -35,8 +35,8 @@ nav a{
     transition: 0.1s;
 }
 nav a:hover{
-    border-bottom: 3px solid #222853;
-    color: #222853;
+    border-bottom: 3px solid #B2AFDE;
+    color: #B2AFDE;
 }
 header > a{
     text-decoration: none;
