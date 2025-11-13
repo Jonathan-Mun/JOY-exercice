@@ -10,7 +10,7 @@ body{
     color: black;
 }
 header{
-    background-color: #B2AFDE;
+    background-color: #D3DFF5;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -66,12 +66,12 @@ header > a:hover{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color: #B2AFDE;
+    color: whitesmoke;
 }
 #pres > h3{
     font-weight: 800;
     color: whitesmoke;
-    font-size: 30px;
+    font-size: 35px;
 }
 #pres > div > a{
     padding: 10px;
@@ -86,7 +86,7 @@ header > a:hover{
     color: whitesmoke;
 }
 #projet{
-    background-color: #B2AFDE;
+    background-color: #D3DFF5;
     color: #222853;
 }
 #service:hover, #projet:hover{
@@ -96,7 +96,7 @@ header > a:hover{
 #pres > div >i{
     font-size: 30px;
     margin-right: 7px;
-    color: #B2AFDE;
+    color: #D3DFF5;
     transition: 0.3s;
 
 }
@@ -113,3 +113,34 @@ img{
 div img{
     background-color: gray;
 }
+#apropos{
+    background-color: #D3DFF5;
+    height: 850px;
+    width: 100%; 
+}
+.nous{
+    margin: 50px 0px;
+    display: flex;
+    padding: 0% 5%;
+    height: 550px;
+}
+.nous-desc{
+    background-color: #222853;
+    position: relative;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px 0px 0px 10px;
+    padding: 5%;
+}
+.nous > img{
+    position: relative;
+    width: 50%;
+}
+.nous-desc h3{
+    color: green;
+    font-weight: 800px;
+    font-size: 25px;
+}
+
