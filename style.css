@@ -104,14 +104,9 @@ header > a:hover{
     color: #222853;
     font-size: 35px;
 }
-span{
-    color: red;
-}
+
 img{
     width: 100px;
-}
-div img{
-    background-color: gray;
 }
 #apropos{
     background-color: #D3DFF5;
@@ -151,4 +146,30 @@ div img{
     position: relative;
     padding-top: 50px;
     padding-bottom: 10px;
+}
+.nous-desc > div > p > span{
+    color:#D3DFF5;
+}
+.part #part-img{
+    background-color: #a6b6fc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+#part-img > div > img{
+    height: 100px;
+    width: auto;
+}
+.part > h3{
+    color: #222853;
+    padding: 0% 5%;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+#service{
+    background-color: #a6b6fc;
+    height: 850px;
 }
