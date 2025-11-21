@@ -179,6 +179,7 @@ img{
 }
 
 #services{
+    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -223,6 +224,7 @@ img{
 }
 
 #contact{
+    position: relative;
     background-color: #D3DFF5;
     color: #222853;
     display: flex;
@@ -281,6 +283,7 @@ input:focus, textarea:focus{
 } 
 
 footer{
+    position: relative;
     background-color: #222853;
     color: whitesmoke;
     display: flex;
