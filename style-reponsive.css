@@ -68,7 +68,7 @@
 
     /* Formulaire contact */
     input, textarea{
-        width: 600px;
+        width: 300px;
     }
 }
 @media (min-width: 769px) and (max-width: 1024px) {
